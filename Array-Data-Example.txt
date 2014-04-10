@@ -1,0 +1,1130 @@
+|| ************************************************************************************ ||
+|| searchTag sample data START
+|| ************************************************************************************ ||
+
+Array
+(
+    [0] => Array
+        (
+            [liked] => 0
+            [likes] => Array
+                (
+                    [count] => 5
+                    [data] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [user_name] => Followers24
+                                    [user_id] => 1.0654225435965E+18
+                                )
+
+                            [1] => Array
+                                (
+                                    [user_name] => charityeee_
+                                    [user_id] => 1.0105645264268E+18
+                                )
+
+                            [2] => Array
+                                (
+                                    [user_name] => Iranian Busine
+                                    [user_id] => 1.0653460878687E+18
+                                )
+
+                            [3] => Array
+                                (
+                                    [user_name] => Brisa Gower
+                                    [user_id] => 1.0396543539987E+18
+                                )
+
+                            [4] => Array
+                                (
+                                    [user_name] => MyVineProfile
+                                    [user_id] => 1.0563631583125E+18
+                                )
+
+                        )
+
+                )
+
+            [thumbnail_url] => http://v.cdn.vine.co/r/thumbs/9B90E51AC41066050905968889856_1397140520298_image72b0e38ac6.jpg?versionId=..TPqZ43ZAR_9K3HjAsdHH0I7z6qeXR0
+            [avatar_url] => http://v.cdn.vine.co/r/avatars/4C0838D5531050519015959175168_pic-r-1393437440582e226ff68b4.jpg.jpg?versionId=F3Dz2XxOCAhcR3XHrvhTotRdqjbvJz56
+            [comments] => Array
+                (
+                    [count] => 1
+                    [data] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [comment] => Hey
+                                    [user_name] => Followers24
+                                    [user_id] => 1.0654225656669E+18
+                                    [description] => 
+                                    [avatar_url] => http://v.cdn.vine.co/r/avatars/C269A7D4B21065430643556896768_18f2c554f50.4.4.jpg?versionId=vOtS_6L5ifiqvkFaU3hBDjTgddhDWR2q
+                                    [location] => 
+                                )
+
+                        )
+
+                )
+
+            [entities] => Array
+                (
+                    [data] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [link] => vine://tag/vinefamous
+                                    [type] => tag
+                                    [title] => vinefamous
+                                )
+
+                            [1] => Array
+                                (
+                                    [link] => vine://tag/vinesepeti
+                                    [type] => tag
+                                    [title] => vinesepeti
+                                )
+
+                            [2] => Array
+                                (
+                                    [link] => vine://tag/revine
+                                    [type] => tag
+                                    [title] => revine
+                                )
+
+                            [3] => Array
+                                (
+                                    [link] => vine://tag/famous
+                                    [type] => tag
+                                    [title] => famous
+                                )
+
+                            [4] => Array
+                                (
+                                    [link] => vine://tag/fashion
+                                    [type] => tag
+                                    [title] => fashion
+                                )
+
+                            [5] => Array
+                                (
+                                    [link] => vine://tag/Morning
+                                    [type] => tag
+                                    [title] => Morning
+                                )
+
+                            [6] => Array
+                                (
+                                    [link] => vine://tag/firstVine
+                                    [type] => tag
+                                    [title] => firstVine
+                                )
+
+                            [7] => Array
+                                (
+                                    [link] => vine://tag/Fenovine
+                                    [type] => tag
+                                    [title] => Fenovine
+                                )
+
+                            [8] => Array
+                                (
+                                    [link] => vine://tag/Hollywood
+                                    [type] => tag
+                                    [title] => Hollywood
+                                )
+
+                            [9] => Array
+                                (
+                                    [link] => vine://tag/movie
+                                    [type] => tag
+                                    [title] => movie
+                                )
+
+                            [10] => Array
+                                (
+                                    [link] => vine://tag/erolrim
+                                    [type] => tag
+                                    [title] => erolrim
+                                )
+
+                            [11] => Array
+                                (
+                                    [link] => vine://tag/swag
+                                    [type] => tag
+                                    [title] => swag
+                                )
+
+                            [12] => Array
+                                (
+                                    [link] => vine://tag/LOL
+                                    [type] => tag
+                                    [title] => LOL
+                                )
+
+                        )
+
+                )
+
+            [media] => Array
+                (
+                    [data] => Array
+                        (
+                            [low_video_url] => http://v.cdn.vine.co/r/videos_r1/EAD86C59031066050903162953728_1397140520298da49c184df.mp4.mp4?versionId=YtbDXfwuPHES2O1vdF47wuOK9uJBnmlb
+                            [permalink_url] => https://vine.co/v/M5Im5JZJxwe
+                            [user_name] => erol rim
+                            [description] => #vinefamous #vinesepeti #revine #famous #fashion #Morning #firstVine #Fenovine #Hollywood #movie #erolrim #swag #LOL
+                            [high_video_url] => http://v.cdn.vine.co/r/videos/EAD86C59031066050903162953728_1397140520298da49c184df.mp4.mp4?versionId=a74mNwXj8HASnvOj8QnlJIgwi7yBI_az
+                            [created_date] => 2014-04-10T14:36:03.000000
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [liked] => 0
+            [likes] => Array
+                (
+                    [count] => 11
+                    [data] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [user_name] => Cesar Villa Uztariz
+                                    [user_id] => 9.8574427996234E+17
+                                )
+
+                            [1] => Array
+                                (
+                                    [user_name] => Cheyenne
+                                    [user_id] => 1.0441600878512E+18
+                                )
+
+                            [2] => Array
+                                (
+                                    [user_name] => jeNvO Kanibiz
+                                    [user_id] => 9.6227168811077E+17
+                                )
+
+                            [3] => Array
+                                (
+                                    [user_name] => Robert Casanova
+                                    [user_id] => 1.0593669444505E+18
+                                )
+
+                            [4] => Array
+                                (
+                                    [user_name] => Ducksterjr
+                                    [user_id] => 9.5706969232813E+17
+                                )
+
+                            [5] => Array
+                                (
+                                    [user_name] => idiot
+                                    [user_id] => 1.0532854696705E+18
+                                )
+
+                            [6] => Array
+                                (
+                                    [user_name] => Low Life Guys
+                                    [user_id] => 1.0622904785588E+18
+                                )
+
+                            [7] => Array
+                                (
+                                    [user_name] => Anabel Herring
+                                    [user_id] => 1.0396543516205E+18
+                                )
+
+                            [8] => Array
+                                (
+                                    [user_name] => Iranian Busine
+                                    [user_id] => 1.065346086107E+18
+                                )
+
+                            [9] => Array
+                                (
+                                    [user_name] => MyVineProfile
+                                    [user_id] => 1.0563631688906E+18
+                                )
+
+                        )
+
+                )
+
+            [thumbnail_url] => http://v.cdn.vine.co/r/thumbs/BED6C3D43A1066038990660321280_1397137677719_imagedc8ea4e736.jpg?versionId=XBMnwVnX1zb0wKQa3w93fNiYkt2DpMrd
+            [avatar_url] => http://v.cdn.vine.co/r/avatars/46F63B33CB1062292132947169280_pic-r-13962443716781260c6c77a.jpg.jpg?versionId=qvTKTY2PNDjaIg9d9ZO7MwDwVo7bBp1C
+            [comments] => Array
+                (
+                    [count] => 2
+                    [data] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [comment] => haha nice vine! im almost to 16k followers. You dont have to follow me but comment on my vines if you want!
+                                    [user_name] => Sam Duffy
+                                    [user_id] => 9.4331466400207E+17
+                                    [description] => I spend a lot of my free time at Wal-Mart Follow me on Insta and twitter- SamTDuffy
+                                    [avatar_url] => http://v.cdn.vine.co/r/avatars/8FE50C69241049083206202187776_196d86a53cb.4.8.jpg?versionId=vmDQwoCWzKzabS5fdB3N4qPt7kjuMPEg
+                                    [location] => Iowa 
+                                )
+
+                            [1] => Array
+                                (
+                                    [comment] => amazing
+                                    [user_name] => Followers24
+                                    [user_id] => 1.0654225673573E+18
+                                    [description] => 
+                                    [avatar_url] => http://v.cdn.vine.co/r/avatars/B41E2128E81065430742756102144_15f17168b85.4.4.jpg?versionId=M.KRHbb46VVK6KYZbrzoj9WP4UjZXCXk
+                                    [location] => 
+                                )
+
+                        )
+
+                )
+
+            [entities] => Array
+                (
+                    [data] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [link] => vine://tag/meme
+                                    [type] => tag
+                                    [title] => meme
+                                )
+
+                            [1] => Array
+                                (
+                                    [link] => vine://tag/wtfisthis
+                                    [type] => tag
+                                    [title] => wtfisthis
+                                )
+
+                            [2] => Array
+                                (
+                                    [link] => vine://tag/aminals
+                                    [type] => tag
+                                    [title] => aminals
+                                )
+
+                            [3] => Array
+                                (
+                                    [link] => vine://tag/epic
+                                    [type] => tag
+                                    [title] => epic
+                                )
+
+                            [4] => Array
+                                (
+                                    [link] => vine://tag/wtf
+                                    [type] => tag
+                                    [title] => wtf
+                                )
+
+                            [5] => Array
+                                (
+                                    [link] => vine://tag/famous
+                                    [type] => tag
+                                    [title] => famous
+                                )
+
+                            [6] => Array
+                                (
+                                    [link] => vine://tag/Hollywood
+                                    [type] => tag
+                                    [title] => Hollywood
+                                )
+
+                            [7] => Array
+                                (
+                                    [link] => vine://tag/birds
+                                    [type] => tag
+                                    [title] => birds
+                                )
+
+                            [8] => Array
+                                (
+                                    [link] => vine://tag/birdman
+                                    [type] => tag
+                                    [title] => birdman
+                                )
+
+                        )
+
+                )
+
+            [media] => Array
+                (
+                    [data] => Array
+                        (
+                            [low_video_url] => http://v.cdn.vine.co/r/videos_r1/EFB67E7E931066038989464756224_13971376777196ebc0f6739.mp4.mp4?versionId=cgXKjKdlyoqmL0OBLyITMUOWVMI.kmcF
+                            [permalink_url] => https://vine.co/v/M5jQTKQPJXd
+                            [user_name] => #mitchlol#xp
+                            [description] => crazy birds #meme #wtfisthis #aminals #epic #wtf #famous #Hollywood #birds #birdman
+                            [high_video_url] => http://v.cdn.vine.co/r/videos/EFB67E7E931066038989464756224_13971376777196ebc0f6739.mp4.mp4?versionId=nimooV_QRNJ_plXDEj7cA3MTpw81vt5L
+                            [created_date] => 2014-04-10T13:51:06.000000
+                        )
+
+                )
+
+        )
+
+    [2] => Array
+        (
+            [liked] => 0
+            [likes] => Array
+                (
+                    [count] => 0
+                )
+
+            [thumbnail_url] => http://v.cdn.vine.co/r/thumbs/667F33DCD81065997529201692672_125993cacf6.4.8.15957821913759297726.mp4.jpg?versionId=APN4CZl3g3XDWAJ46Dt.vd3J6o2ly7dI
+            [avatar_url] => http://v.cdn.vine.co/r/avatars/0A932D94171029967371684683776_109d179c609.4.6__MQCEoG7v0jS6LJJ9V5Bl8PHkdCQ5lgeTwyONBr8GcBHu7Bp387ZD0Lf3b4jeHmX.jpg?versionId=QeW3TNMywqOEneJCr1pIcdjAL9KiJCFm
+            [comments] => Array
+                (
+                    [count] => 0
+                )
+
+            [entities] => Array
+                (
+                    [data] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [link] => vine://tag/goshfatherandjinco
+                                    [type] => tag
+                                    [title] => goshfatherandjinco
+                                )
+
+                            [1] => Array
+                                (
+                                    [link] => vine://tag/Hollywood
+                                    [type] => tag
+                                    [title] => Hollywood
+                                )
+
+                            [2] => Array
+                                (
+                                    [link] => vine://tag/soundnightclub
+                                    [type] => tag
+                                    [title] => soundnightclub
+                                )
+
+                            [3] => Array
+                                (
+                                    [link] => vine://tag/crowdsurfing
+                                    [type] => tag
+                                    [title] => crowdsurfing
+                                )
+
+                        )
+
+                )
+
+            [media] => Array
+                (
+                    [data] => Array
+                        (
+                            [low_video_url] => http://v.cdn.vine.co/r/videos_r1/D8EB24B64D1065997526525800448_1bcae6a9434.4.8.15957821913759297726.mp4?versionId=IPNs9Y6PpTCJPUZq2noAp_MYHweQtW3w
+                            [permalink_url] => https://vine.co/v/M5DwO9HtaWp
+                            [user_name] => HEARTLESS
+                            [description] => #goshfatherandjinco #Hollywood #soundnightclub #crowdsurfing
+                            [high_video_url] => http://v.cdn.vine.co/r/videos/D8EB24B64D1065997526525800448_1bcae6a9434.4.8.15957821913759297726.mp4?versionId=mezFJNwrpRMY2GZ23UliCS30MWaOWTe4
+                            [created_date] => 2014-04-10T11:05:42.000000
+                        )
+
+                )
+
+        )
+
+    [3] => Array
+        (
+            [liked] => 0
+            [likes] => Array
+                (
+                    [count] => 0
+                )
+
+            [thumbnail_url] => http://v.cdn.vine.co/r/thumbs/D8DE153EAE1065997082474979328_10429be143d.4.8.14308979609303000755.mp4.jpg?versionId=oiNmFlkc8Tnkd513ILW0xVMWHfBHKhLS
+            [avatar_url] => http://v.cdn.vine.co/r/avatars/0A932D94171029967371684683776_109d179c609.4.6__MQCEoG7v0jS6LJJ9V5Bl8PHkdCQ5lgeTwyONBr8GcBHu7Bp387ZD0Lf3b4jeHmX.jpg?versionId=QeW3TNMywqOEneJCr1pIcdjAL9KiJCFm
+            [comments] => Array
+                (
+                    [count] => 0
+                )
+
+            [entities] => Array
+                (
+                    [data] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [link] => vine://tag/crowdsurfing
+                                    [type] => tag
+                                    [title] => crowdsurfing
+                                )
+
+                            [1] => Array
+                                (
+                                    [link] => vine://tag/crowdview
+                                    [type] => tag
+                                    [title] => crowdview
+                                )
+
+                            [2] => Array
+                                (
+                                    [link] => vine://tag/soundnightclub
+                                    [type] => tag
+                                    [title] => soundnightclub
+                                )
+
+                            [3] => Array
+                                (
+                                    [link] => vine://tag/Hollywood
+                                    [type] => tag
+                                    [title] => Hollywood
+                                )
+
+                            [4] => Array
+                                (
+                                    [link] => vine://tag/djskywalker
+                                    [type] => tag
+                                    [title] => djskywalker
+                                )
+
+                        )
+
+                )
+
+            [media] => Array
+                (
+                    [data] => Array
+                        (
+                            [low_video_url] => http://v.cdn.vine.co/r/videos_r1/E365F3DBF91065997078695735296_1f44c324257.4.8.14308979609303000755.mp4?versionId=JrSSJaJhvM7shij.0_sK1e.PDcnhpJR4
+                            [permalink_url] => https://vine.co/v/M5DHJwbuiFD
+                            [user_name] => HEARTLESS
+                            [description] => Drunk #crowdsurfing #crowdView #soundnightclub #Hollywood #djskywalker
+                            [high_video_url] => http://v.cdn.vine.co/r/videos/E365F3DBF91065997078695735296_1f44c324257.4.8.14308979609303000755.mp4?versionId=NKhXNHsDYDjwYHDTxOHu3LHRJG6QVq57
+                            [created_date] => 2014-04-10T11:03:12.000000
+                        )
+
+                )
+
+        )
+
+    [4] => Array
+        (
+            [liked] => 0
+            [likes] => Array
+                (
+                    [count] => 0
+                )
+
+            [thumbnail_url] => http://v.cdn.vine.co/r/thumbs/05C1124AD71065996794321891328_1326bdd352f.4.8.5295727860657032658.mp4.jpg?versionId=2DbVrFUO7GMGmwnNiRyvik5LVHGiCFYz
+            [avatar_url] => http://v.cdn.vine.co/r/avatars/0A932D94171029967371684683776_109d179c609.4.6__MQCEoG7v0jS6LJJ9V5Bl8PHkdCQ5lgeTwyONBr8GcBHu7Bp387ZD0Lf3b4jeHmX.jpg?versionId=QeW3TNMywqOEneJCr1pIcdjAL9KiJCFm
+            [comments] => Array
+                (
+                    [count] => 0
+                )
+
+            [entities] => Array
+                (
+                    [data] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [link] => vine://tag/goshfatherandjinco
+                                    [type] => tag
+                                    [title] => goshfatherandjinco
+                                )
+
+                            [1] => Array
+                                (
+                                    [link] => vine://tag/sound
+                                    [type] => tag
+                                    [title] => sound
+                                )
+
+                            [2] => Array
+                                (
+                                    [link] => vine://tag/Hollywood
+                                    [type] => tag
+                                    [title] => Hollywood
+                                )
+
+                            [3] => Array
+                                (
+                                    [link] => vine://tag/soundnightclub
+                                    [type] => tag
+                                    [title] => soundnightclub
+                                )
+
+                        )
+
+                )
+
+            [media] => Array
+                (
+                    [data] => Array
+                        (
+                            [low_video_url] => http://v.cdn.vine.co/r/videos_r1/9EB401688D1065996791704612864_123a03a9b1f.4.8.5295727860657032658.mp4?versionId=qRoNBLVoKEQFAr6bxVFNRb05XzjEBJL2
+                            [permalink_url] => https://vine.co/v/M5DXIO2MLB0
+                            [user_name] => HEARTLESS
+                            [description] => The homies #goshfatherandjinco #Sound #Hollywood #soundnightclub
+                            [high_video_url] => http://v.cdn.vine.co/r/videos/9EB401688D1065996791704612864_123a03a9b1f.4.8.5295727860657032658.mp4?versionId=rvoYTrENLNPLbtFBd_vppXwnugfUmIlq
+                            [created_date] => 2014-04-10T11:01:16.000000
+                        )
+
+                )
+
+        )
+
+    [5] => Array
+        (
+            [liked] => 0
+            [likes] => Array
+                (
+                    [count] => 0
+                )
+
+            [thumbnail_url] => http://v.cdn.vine.co/r/thumbs/42692C8E071065918671509192704_2.0.0.5171057310353216650.mp4.jpg?versionId=cFRrXXDfWaNH3yC0t5WtwpgmJ_mHyQdn
+            [avatar_url] => http://v.cdn.vine.co/r/avatars/595F1FBFB71037325843287941120_1da2b428a90.4.7_toCaHb6aY0u9S1oBnu1XMv0oJCIphSO5zo.lGEZSdxHvj0M7__2S.95APKFqu2Ly.jpg?versionId=wvoUhUwXVK8AXknuZtyYCu7EDuPwiHIx
+            [comments] => Array
+                (
+                    [count] => 0
+                )
+
+            [entities] => Array
+                (
+                    [data] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [link] => vine://tag/Hollywood
+                                    [type] => tag
+                                    [title] => Hollywood
+                                )
+
+                        )
+
+                )
+
+            [media] => Array
+                (
+                    [data] => Array
+                        (
+                            [low_video_url] => http://v.cdn.vine.co/r/videos_r1/C486DCF6591065918669999206400_2ef5302686f.0.0.5171057310353216650.mp4?versionId=m4rZgWK0sK4m4ndMMEaB4cD31rHZPtwn
+                            [permalink_url] => https://vine.co/v/M5dKJvP9Wut
+                            [user_name] => rawradri
+                            [description] => #Hollywood
+                            [high_video_url] => http://v.cdn.vine.co/r/videos/C486DCF6591065918669999206400_2ef5302686f.0.0.5171057310353216650.mp4?versionId=gck.M9204HsGdkzCQTrCEy9hREA1cqYV
+                            [created_date] => 2014-04-10T05:50:34.000000
+                        )
+
+                )
+
+        )
+
+    [6] => Array
+        (
+            [liked] => 0
+            [likes] => Array
+                (
+                    [count] => 0
+                )
+
+            [thumbnail_url] => http://v.cdn.vine.co/r/thumbs/70DD72CE421065915246125940736_281e7da4cba.0.0.1864434997517756394.mp4.jpg?versionId=QYyIyGLFk0rw0vokaQjzs9RJ2QuGh.4m
+            [avatar_url] => http://v.cdn.vine.co/r/avatars/4B8C1863771047247350923423744_1078093bde2.4.8.jpg?versionId=A6a2s2X9k6OBPcVJE2OnVHeqgU2f13CG
+            [comments] => Array
+                (
+                    [count] => 0
+                )
+
+            [entities] => Array
+                (
+                    [data] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [link] => vine://tag/neontrees
+                                    [type] => tag
+                                    [title] => neontrees
+                                )
+
+                            [1] => Array
+                                (
+                                    [link] => vine://tag/jimmykimmellive
+                                    [type] => tag
+                                    [title] => jimmykimmellive
+                                )
+
+                            [2] => Array
+                                (
+                                    [link] => vine://tag/Hollywood
+                                    [type] => tag
+                                    [title] => Hollywood
+                                )
+
+                            [3] => Array
+                                (
+                                    [link] => vine://tag/miniconcert
+                                    [type] => tag
+                                    [title] => miniconcert
+                                )
+
+                        )
+
+                )
+
+            [media] => Array
+                (
+                    [data] => Array
+                        (
+                            [low_video_url] => http://v.cdn.vine.co/r/videos_r1/5662F4C6931065915241088610304_2d950110579.0.0.1864434997517756394.mp4?versionId=N6bMEIiM8_0MOukxHELpCUEHLE017ydy
+                            [permalink_url] => https://vine.co/v/M5daOMjKBOF
+                            [user_name] => Montserrat
+                            [description] => #neontrees #jimmykimmellive #Hollywood #miniconcert
+                            [high_video_url] => http://v.cdn.vine.co/r/videos/5662F4C6931065915241088610304_2d950110579.0.0.1864434997517756394.mp4?versionId=Ddigk3QXSTYqs7NLnBjLiD2GPuvgjYCp
+                            [created_date] => 2014-04-10T05:36:52.000000
+                        )
+
+                )
+
+        )
+
+    [7] => Array
+        (
+            [liked] => 0
+            [likes] => Array
+                (
+                    [count] => 24
+                    [data] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [user_name] => Naama Cohen
+                                    [user_id] => 1.0226820898015E+18
+                                )
+
+                            [1] => Array
+                                (
+                                    [user_name] => Leo Puppytime
+                                    [user_id] => 9.5250354325492E+17
+                                )
+
+                            [2] => Array
+                                (
+                                    [user_name] => Jared Rosen
+                                    [user_id] => 9.4911729336596E+17
+                                )
+
+                            [3] => Array
+                                (
+                                    [user_name] => Penny Suddith
+                                    [user_id] => 9.7678003096322E+17
+                                )
+
+                            [4] => Array
+                                (
+                                    [user_name] => Janne Salminen
+                                    [user_id] => 9.3270683426188E+17
+                                )
+
+                            [5] => Array
+                                (
+                                    [user_name] => Adorekable
+                                    [user_id] => 9.1237821785009E+17
+                                )
+
+                            [6] => Array
+                                (
+                                    [user_name] => Jesse Miller
+                                    [user_id] => 9.0792348481711E+17
+                                )
+
+                            [7] => Array
+                                (
+                                    [user_name] => Curly Betty
+                                    [user_id] => 9.0910582831593E+17
+                                )
+
+                            [8] => Array
+                                (
+                                    [user_name] => Mykelzep
+                                    [user_id] => 9.3023858305336E+17
+                                )
+
+                            [9] => Array
+                                (
+                                    [user_name] => Claudia Cukrov
+                                    [user_id] => 9.0632270479217E+17
+                                )
+
+                        )
+
+                )
+
+            [thumbnail_url] => http://v.cdn.vine.co/r/thumbs/58EFA201D51065868964904984576_2abb54dd4be.0.0.2517552488875911791.mp4.jpg?versionId=K6697r2Q0PcI1zYnbdjMWe8UlP4DLk_S
+            [avatar_url] => http://v.cdn.vine.co/r/avatars/CF3495244B1045669099583700992_102b94afbeb.4.7.jpg?versionId=d_wv.NQxMgpi.aB0_S0X.HFmVXosdcAU
+            [comments] => Array
+                (
+                    [count] => 6
+                    [data] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [comment] => #weho #dogs #dejavu #losangeles #hollywood
+                                    [user_name] => FORBHIDDEN
+                                    [user_id] => 9.4686978776882E+17
+                                    [description] => Forbidden Chronicles, Hidden Heroes
+                                    [avatar_url] => http://v.cdn.vine.co/r/avatars/CF3495244B1045669099583700992_102b94afbeb.4.7.jpg?versionId=d_wv.NQxMgpi.aB0_S0X.HFmVXosdcAU
+                                    [location] => Los Angeles
+                                )
+
+                            [1] => Array
+                                (
+                                    [comment] => Adorekable, kinji and patty, Mermaid Hawley Met her again today!
+                                    [user_name] => FORBHIDDEN
+                                    [user_id] => 9.4686978776882E+17
+                                    [description] => Forbidden Chronicles, Hidden Heroes
+                                    [avatar_url] => http://v.cdn.vine.co/r/avatars/CF3495244B1045669099583700992_102b94afbeb.4.7.jpg?versionId=d_wv.NQxMgpi.aB0_S0X.HFmVXosdcAU
+                                    [location] => Los Angeles
+                                )
+
+                            [2] => Array
+                                (
+                                    [comment] => *them
+                                    [user_name] => FORBHIDDEN
+                                    [user_id] => 9.4686978776882E+17
+                                    [description] => Forbidden Chronicles, Hidden Heroes
+                                    [avatar_url] => http://v.cdn.vine.co/r/avatars/CF3495244B1045669099583700992_102b94afbeb.4.7.jpg?versionId=d_wv.NQxMgpi.aB0_S0X.HFmVXosdcAU
+                                    [location] => Los Angeles
+                                )
+
+                            [3] => Array
+                                (
+                                    [comment] => Ã°Å¸â€˜Â�The good life doggy!
+                                    [user_name] => Mermaid Hawley
+                                    [user_id] => 9.6472172534868E+17
+                                    [description] => 
+                                    [avatar_url] => http://v.cdn.vine.co/r/avatars/554EE33B831048421030399549440_1adc54fc7de.4.8.jpg?versionId=QKF2UIR7B0AZYaKp.yHMJyQW6hJL3mj9
+                                    [location] => Ocean and Country
+                                )
+
+                            [4] => Array
+                                (
+                                    [comment] => I like
+                                    [user_name] => Followers24
+                                    [user_id] => 1.065422549523E+18
+                                    [description] => 
+                                    [avatar_url] => http://v.cdn.vine.co/r/avatars/7DC818D6B31065430633221881856_1b78f24a848.4.4.jpg?versionId=H_aoeqTzWtsMoa0Y5PtShqDSozwTpOS_
+                                    [location] => 
+                                )
+
+                            [5] => Array
+                                (
+                                    [comment] => I think the doggy recognized you!
+                                    [user_name] => Adorekable
+                                    [user_id] => 9.1237821785009E+17
+                                    [description] => Geek. Love pups, dark chocolate and improv.
+                                    [avatar_url] => http://v.cdn.vine.co/r/avatars/B6F5967ACB993862743276838912_1662759e7cc.3.3_l90nXIiAI9Gi6AGzKI9uTKrjtGje.Fbr26tiBy0nVyXe9yWw_dWWlU5FZ1ksrSim.jpg?versionId=K4OIS6KzGfW.wT7BTny852wUxV7JNG2v
+                                    [location] => Earth (sometimes)
+                                )
+
+                        )
+
+                )
+
+            [media] => Array
+                (
+                    [data] => Array
+                        (
+                            [low_video_url] => http://v.cdn.vine.co/r/videos_r1/9512501D301065868961666961408_21d93732796.0.0.2517552488875911791.mp4?versionId=i5MrBMGNjxyPdkIEE56LtQuqsaoLMMJb
+                            [permalink_url] => https://vine.co/v/M5HTzw9pUiO
+                            [user_name] => FORBHIDDEN
+                            [description] => 
+                            [high_video_url] => http://v.cdn.vine.co/r/videos/9512501D301065868961666961408_21d93732796.0.0.2517552488875911791.mp4?versionId=TUlU5yS7.0AM.qw5inZr5fn3nT8W7BTC
+                            [created_date] => 2014-04-10T02:32:58.000000
+                        )
+
+                )
+
+        )
+
+    [8] => Array
+        (
+            [liked] => 0
+            [likes] => Array
+                (
+                    [count] => 16
+                    [data] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [user_name] => Vine Popular
+                                    [user_id] => 1.0607681484307E+18
+                                )
+
+                            [1] => Array
+                                (
+                                    [user_name] => Iranian Busine
+                                    [user_id] => 1.0653460866146E+18
+                                )
+
+                            [2] => Array
+                                (
+                                    [user_name] => Neveah Horridg
+                                    [user_id] => 1.0396543518343E+18
+                                )
+
+                            [3] => Array
+                                (
+                                    [user_name] => Cristina
+                                    [user_id] => 9.3892790156964E+17
+                                )
+
+                            [4] => Array
+                                (
+                                    [user_name] => Jared Rosen
+                                    [user_id] => 9.4911729336596E+17
+                                )
+
+                            [5] => Array
+                                (
+                                    [user_name] => Maiko Teraoka
+                                    [user_id] => 1.0078641142421E+18
+                                )
+
+                            [6] => Array
+                                (
+                                    [user_name] => Janne Salminen
+                                    [user_id] => 9.3270683426188E+17
+                                )
+
+                            [7] => Array
+                                (
+                                    [user_name] => Jasmine
+                                    [user_id] => 1.0652102960602E+18
+                                )
+
+                            [8] => Array
+                                (
+                                    [user_name] => GC2
+                                    [user_id] => 1.0437641503943E+18
+                                )
+
+                            [9] => Array
+                                (
+                                    [user_name] => American Horror Story Fan
+                                    [user_id] => 1.0660592080065E+18
+                                )
+
+                        )
+
+                )
+
+            [thumbnail_url] => http://v.cdn.vine.co/r/thumbs/60C152724C1065857606830202880_2545c63d6c0.0.0.5963984718773375339.mp4.jpg?versionId=dIZ.3mcMUHuqi6J.oQBY8NXKmi90XMm1
+            [avatar_url] => http://v.cdn.vine.co/r/avatars/CF3495244B1045669099583700992_102b94afbeb.4.7.jpg?versionId=d_wv.NQxMgpi.aB0_S0X.HFmVXosdcAU
+            [comments] => Array
+                (
+                    [count] => 3
+                    [data] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [comment] => #white #ghosts
+                                    [user_name] => FORBHIDDEN
+                                    [user_id] => 9.4686978776882E+17
+                                    [description] => Forbidden Chronicles, Hidden Heroes
+                                    [avatar_url] => http://v.cdn.vine.co/r/avatars/CF3495244B1045669099583700992_102b94afbeb.4.7.jpg?versionId=d_wv.NQxMgpi.aB0_S0X.HFmVXosdcAU
+                                    [location] => Los Angeles
+                                )
+
+                            [1] => Array
+                                (
+                                    [comment] => #weho #Hollywood #fly #losangeles  #nature #spooky
+                                    [user_name] => FORBHIDDEN
+                                    [user_id] => 9.4686978776882E+17
+                                    [description] => Forbidden Chronicles, Hidden Heroes
+                                    [avatar_url] => http://v.cdn.vine.co/r/avatars/CF3495244B1045669099583700992_102b94afbeb.4.7.jpg?versionId=d_wv.NQxMgpi.aB0_S0X.HFmVXosdcAU
+                                    [location] => Los Angeles
+                                )
+
+                            [2] => Array
+                                (
+                                    [comment] => amazing
+                                    [user_name] => Followers24
+                                    [user_id] => 1.0654225602059E+18
+                                    [description] => 
+                                    [avatar_url] => http://v.cdn.vine.co/r/avatars/42D67F133E1065430641140801536_18cf68cfa64.4.4.jpg?versionId=N8hxcHA7ewE4v14s4hAAfAyhBZtOoWNc
+                                    [location] => 
+                                )
+
+                        )
+
+                )
+
+            [media] => Array
+                (
+                    [data] => Array
+                        (
+                            [low_video_url] => http://v.cdn.vine.co/r/videos_r1/5418A443361065857605320261632_26ef3235438.0.0.5963984718773375339.mp4?versionId=00.u4Y8JzWcYwo_wYfEabnECIsdi70eR
+                            [permalink_url] => https://vine.co/v/M5HiezTgVaj
+                            [user_name] => FORBHIDDEN
+                            [description] => 
+                            [high_video_url] => http://v.cdn.vine.co/r/videos/5418A443361065857605320261632_26ef3235438.0.0.5963984718773375339.mp4?versionId=FVND70UjlY3nqwzlU7dx361fyekNqMLB
+                            [created_date] => 2014-04-10T01:47:50.000000
+                        )
+
+                )
+
+        )
+
+    [9] => Array
+        (
+            [liked] => 0
+            [likes] => Array
+                (
+                    [count] => 29
+                    [data] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [user_name] => enn shane
+                                    [user_id] => 1.0011878237113E+18
+                                )
+
+                            [1] => Array
+                                (
+                                    [user_name] => hmm
+                                    [user_id] => 9.6212570746567E+17
+                                )
+
+                            [2] => Array
+                                (
+                                    [user_name] => Naama Cohen
+                                    [user_id] => 1.0226820898015E+18
+                                )
+
+                            [3] => Array
+                                (
+                                    [user_name] => Michelle901
+                                    [user_id] => 1.0514256621432E+18
+                                )
+
+                            [4] => Array
+                                (
+                                    [user_name] => Devyn Rose Garden
+                                    [user_id] => 1.0367116927568E+18
+                                )
+
+                            [5] => Array
+                                (
+                                    [user_name] => Janne Salminen
+                                    [user_id] => 9.3270683426188E+17
+                                )
+
+                            [6] => Array
+                                (
+                                    [user_name] => Jasmine
+                                    [user_id] => 1.0652102960602E+18
+                                )
+
+                            [7] => Array
+                                (
+                                    [user_name] => Iranian Busine
+                                    [user_id] => 1.065346086107E+18
+                                )
+
+                            [8] => Array
+                                (
+                                    [user_name] => Zelene Bott
+                                    [user_id] => 1.0396543529458E+18
+                                )
+
+                            [9] => Array
+                                (
+                                    [user_name] => Jesse Miller
+                                    [user_id] => 9.0792348481711E+17
+                                )
+
+                        )
+
+                )
+
+            [thumbnail_url] => http://v.cdn.vine.co/r/thumbs/15A584009F1065854838329487360_2e2e29f94fb.0.0.1433807424009429178.mp4.jpg?versionId=40Jz3GG5yUf1mft3PlrSTDpgdj9WQPE7
+            [avatar_url] => http://v.cdn.vine.co/r/avatars/CF3495244B1045669099583700992_102b94afbeb.4.7.jpg?versionId=d_wv.NQxMgpi.aB0_S0X.HFmVXosdcAU
+            [comments] => Array
+                (
+                    [count] => 4
+                    [data] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [comment] => Ã¢Â�Â¤Ã¯Â¸Â�Ã°Å¸â€™â€”Ã¢Â�Â¤Ã¯Â¸Â�Ã°Å¸â€™â€”
+                                    [user_name] => FORBHIDDEN
+                                    [user_id] => 9.4686978776882E+17
+                                    [description] => Forbidden Chronicles, Hidden Heroes
+                                    [avatar_url] => http://v.cdn.vine.co/r/avatars/CF3495244B1045669099583700992_102b94afbeb.4.7.jpg?versionId=d_wv.NQxMgpi.aB0_S0X.HFmVXosdcAU
+                                    [location] => Los Angeles
+                                )
+
+                            [1] => Array
+                                (
+                                    [comment] => #love #red #weho #hollywood #losangeles
+                                    [user_name] => FORBHIDDEN
+                                    [user_id] => 9.4686978776882E+17
+                                    [description] => Forbidden Chronicles, Hidden Heroes
+                                    [avatar_url] => http://v.cdn.vine.co/r/avatars/CF3495244B1045669099583700992_102b94afbeb.4.7.jpg?versionId=d_wv.NQxMgpi.aB0_S0X.HFmVXosdcAU
+                                    [location] => Los Angeles
+                                )
+
+                            [2] => Array
+                                (
+                                    [comment] => Hourglass figure
+                                    [user_name] => kinji and patty Besides
+                                    [user_id] => 9.1349290249003E+17
+                                    [description] => It's All About Kinji The Pug
+                                    [avatar_url] => http://v.cdn.vine.co/r/avatars/C03E26B25B1009271729673125888_14ca4821490.4.1_VgqwxAaOrKd2ONVd50oC8aIxjOCxVlM_ub88i9MFZDHvg4wR_YKWBs6R5EzRGseU.jpg?versionId=ptKCPifVRdDoO9jXSwpc.0rmFF99FkDP
+                                    [location] => Ottawa, Canada
+                                )
+
+                            [3] => Array
+                                (
+                                    [comment] => Nice
+                                    [user_name] => Followers24
+                                    [user_id] => 1.0654225545394E+18
+                                    [description] => 
+                                    [avatar_url] => http://v.cdn.vine.co/r/avatars/0A6FFBCDAE1065430648724078592_148429af1ff.4.4.jpg?versionId=Lka_IzeyZ2HGDiqBKBiSsAHbFx0ldlPi
+                                    [location] => 
+                                )
+
+                        )
+
+                )
+
+            [media] => Array
+                (
+                    [data] => Array
+                        (
+                            [low_video_url] => http://v.cdn.vine.co/r/videos_r1/78D89AC6191065854835477401600_27ebe252374.0.0.1433807424009429178.mp4?versionId=E95G9LkyCtp7HHdVo07L9H9q7ukdGEBj
+                            [permalink_url] => https://vine.co/v/M5HhbLed3tQ
+                            [user_name] => FORBHIDDEN
+                            [description] => 
+                            [high_video_url] => http://v.cdn.vine.co/r/videos/78D89AC6191065854835477401600_27ebe252374.0.0.1433807424009429178.mp4?versionId=fQ91lXGco.cifq8e49tlonzer_mw5OUm
+                            [created_date] => 2014-04-10T01:36:53.000000
+                        )
+
+                )
+
+        )
+
+    [next] => 2
+    [prev] => 0
+    [size] => 11
+)
+
+|| ************************************************************************************ ||
+|| searchTag sample data END
+|| ************************************************************************************ ||
