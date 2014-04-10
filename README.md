@@ -9,7 +9,7 @@ How to Use
 Just set your Vine user name and password in Class.Vine.php
 
 ```php
-/**
+	/**
 	 * Vine User Login (Email || Name)
 	 *
 	 * @var string
