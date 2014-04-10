@@ -20,7 +20,7 @@ class Vine {
 	 * @var string
 	 * @access protected
 	 */
-	protected $loginName = 'bhaskarjuly26@gmail.com';
+	protected $loginName = '';
 	
 	/**
 	 * Vine User Login Password
@@ -28,7 +28,7 @@ class Vine {
 	 * @var string
 	 * @access protected
 	 */
-	protected $loginPassword = 'vishul2261041';
+	protected $loginPassword = '';
 	
 	/**
 	 * Vine Key
