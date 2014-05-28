@@ -1,7 +1,7 @@
 Simple-Vine-Class-PHP
 =====================
 
-Simple-Vine-Class is a PHP Class to fetch data from Vine Network. You can search your #hashtag also and can manage the data pagineation and load.
+Simple-Vine-Class is a PHP Class to fetch data from Vine Network. You can search your #hashtag also and can manage the data pagination  and load.
 
 How to Use
 ==============
